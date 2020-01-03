@@ -1,0 +1,489 @@
+.vue1{
+    margin-top: 5px;       /*向下移动vue.js*/
+    margin-left: 70px;      /*向右移动vue.js*/
+    display: inline-block;  /*改变元素种类*/
+    float: left;            /*向左浮动*/
+}
+.vue2{
+    font-family: 微软雅黑;  /*设置字体样式*/
+    font-size: 32px;            /*设置字体大小*/
+    color: black;
+    text-decoration: none;      /*删除下划线*/
+}
+.sousuokuang2{
+    display: inline-block;      /*改变元素种类*/
+    float: left;                /*向左浮动*/
+    margin-left: 665px;         /*与vue.js的距离*/
+    margin-top: 7px;           /*与页面最顶部的距离*/  
+    border-style: none;
+}
+input:focus{      
+    border-radius: 30px;        /*当元素获取焦点时的状态*/
+    outline: none;
+    border-color: rgb(79, 190, 140);
+    border-width: 1px;
+}
+.sousuokuang1{
+    width: 240px;       /*设置搜索框宽度为230px*/
+    height: 30px;       /*设置搜索框高度为30px*/
+    font-size: 18px;        /* 设置输入文字及光标的大小*/
+    border-style: solid;        /*设置实线边框*/
+    border-radius: 30px;        /*设置圆角边框*/
+    border-color: whitesmoke;
+    text-indent: 40px;
+}
+.picture0{
+    float: left;
+    position: absolute;
+	left: 50vw;
+	transform: translateX(-120px);
+	margin-top: 9px;
+	margin-left: 8px;
+    height: 20px;
+    opacity: 0.1;
+    color: rgb(221,221,221);
+}
+.menu1{
+    list-style-type: none;
+}
+.menu2{
+    font-size: 21px;        /*设置字体大小*/
+    float: left;            /*设置向左浮动*/
+    padding: 14px;          
+    margin-left: 25px;
+}
+.picture1{
+    display: inline-block;
+    margin: 50px 425px;
+
+}
+.picture1-1{
+    width: 263px;
+    height: 260px;
+    float: left;
+
+}
+.words1{
+    font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    float: right;
+    font-size: 60px;
+    margin-top: 8px;
+    margin-left: 85px;
+    padding-top: -10px;
+    font-weight: lighter;
+}
+.words2{
+    font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    float: right;
+    font-size: 60px;
+    margin-right: -220px;
+    margin-top: 2px;
+    font-weight: lighter;
+}
+.box1{
+    width: 255px;
+    height: 57px;
+    float: left;
+    background-color: rgb(79,192,141);
+    margin-left: 775px;       
+    margin-top: -90px;        
+    border-style: hidden;        
+    border-radius: 30px;                    
+}
+.button1{  
+    float: left;
+    background-color: white;
+    margin-top: 8px;
+    margin-left: 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border-style: none;
+}
+.button2{
+    margin-left: 14px;
+    margin-top: 5px;
+    float: left;
+    border-width: 15px;
+    border-style: solid;
+    border-color:rgb(79,192,141) transparent transparent transparent;
+    transform: rotate(270deg); 
+}
+.words3{
+    float: left;
+    font-weight: bold;      /* 为文字加粗 */
+    color: honeydew;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+.box2{
+    width: 155px;
+    height: 55px;
+    float: left;
+    background-color:white;
+    margin-left: 1050px;       
+    margin-top: -90px;        
+    border-style: solid;     
+    border-color: rgb(79,192,141);   
+    border-radius: 30px;  
+    font-weight: 100px;
+    border-width: 1px;
+}
+.words4{
+    float: left;
+    font-size: 22px;
+    font-weight: bold;      /* 为文字加粗 */
+    padding-top: 13px;
+    padding-left: 52px;
+    color: rgb(66,185,131);
+}
+.box3{
+    width: 185px;
+    height: 50px;
+    float: left;
+    background-color:white;
+    margin-left: 1230px;       
+    margin-top: -90px;        
+    border-style: solid;     
+    border-color: rgb(246,246,246);   
+    border-radius: 25px;  
+}
+.picture2{
+    float: left;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+.words5{
+    float: left;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;      /* 为文字加粗 */
+    padding-top: 13px;
+    padding-left: 20px;
+    color: rgb(79,89,89);
+}
+.words6{
+    margin-top: 45px;
+    color: rgb(39,56,73);
+}
+.picture3{
+    height: 70px;
+    width: 250px;
+}
+.picture3{
+    height: 67px;
+    width: 245px;
+}
+.picture4{
+    height: 65px;
+    width: 250px;
+    margin-left: 30px;
+}
+.box4{
+    float: left;
+    display: inline-block;
+    text-align: center;
+    margin-top: 35px;
+    margin-left: 410px;
+}
+.box4 h2{
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(66,185,131);
+}
+.words7{
+    font-size: 19px;
+    margin-top: 12px;
+    float: left;
+}
+.box5{
+    float: left;
+    display: inline-block;
+    text-align: center;
+    margin-top: 35px;
+    margin-left: 120px;
+}
+.box5 h2{
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(66,185,131);
+}
+.words8{
+    font-size: 20px;
+    margin-top: 12px;
+    float: left;
+}
+.box6{
+    float: left;
+    display: inline-block;
+    text-align: center;
+    margin-top: 35px;
+    margin-left: 125px;
+}
+.box6 h2{
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(66,185,131);
+}
+.words9{
+    font-size: 20px;
+    margin-top: 12px;
+    float: left;
+}
+.sponsor{
+    background-color: rgb(246,246,246);
+    margin-top: 330px;
+    height: 2073px;
+    display: block;
+    text-align: center;
+}
+.words10{
+    float: right;
+    display: block;
+    margin-right: 45%;
+    padding-top: 18px;
+}
+.link1{
+    float: left;
+    margin-top: 115px;
+    display: inline-block;
+}
+.picture5-1{
+    height: 40px;
+    width: 200px;
+    margin-left: 600px;
+
+}
+.link2{
+    float: left;
+    margin-top: 21px;
+}
+.picture5-2{
+    height: 47px;
+    width: 200px;
+    margin-left: 45px;
+}
+.link3{
+    float: left;
+    margin-top: 21px;
+}
+.picture5-3{
+    height: 45px;
+    width: 200px;
+    margin-left: 45px;
+}
+.link4{
+    float: right;
+    margin-top: 25px;
+    
+}
+.picture5-4{
+    height: 50px;
+    width: 200px;
+    margin-right: 843px;
+}
+.link5{
+    float: left;
+    margin-top: 140px;
+}
+.picture5-5{
+    height: 25px;
+    width: 150px;
+    margin-left: 583px;
+}
+.link6{
+    float: left;
+    margin-top: 50px;
+}
+.picture5-6{
+    height: 50px;
+    width: 150px;
+    margin-left: 40px;
+}
+.link7{
+    float: left;
+    margin-top: 65px;
+}
+.picture5-7{
+    height: 20px;
+    width: 150px;
+    margin-left: 40px;
+}
+.link8{
+    float: left;
+    margin-top: 60px;
+}
+.picture5-8{
+    height: 35px;
+    width: 150px;
+    margin-left: 40px;
+}
+.box7{
+    width: 175px;
+    height: 49px;
+    float: left;
+    background-color:rgb(246,246,246,);
+    margin-left: 850px;       
+    margin-top: 987px;        
+    border-style: solid;     
+    border-color: rgb(79,192,141);   
+    border-radius: 30px; 
+    border-width: 1px; 
+}
+.words11{
+    float: left;
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 12px;
+    padding-left: 34px;
+    color: rgb(66,185,131);
+}
+.box8{
+    float: left;
+    margin-left: 783px;       
+    margin-top: 70px;             
+    border-width: 1px; 
+}
+.words12{
+    float: left;
+    font-size: 22px;
+    font-weight: bold;
+    padding-top: 12px;
+    padding-left: 34px;
+    color: rgb(153,153,153);
+}
+.words13{
+    float: left;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 35px;
+    margin-left: 105px;
+    color: rgb(153,153,153);
+}
+.words14{
+    float: left;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 113px;
+}
+.box9{
+    float: left;
+    display: inline-block;
+    margin-top: 415px;
+    margin-left: -220px;
+    border: 2px solid;
+    width: 120px;
+    height: 35px;
+    border-radius: 20px;
+    font-weight: lighter;
+    border-color: rgb(184,211,244);
+    background-color: rgb(255,255,255);
+}
+.words15{
+    float: left;
+    margin-top: ;
+    margin-left: 27px;
+    font-size: 3px;
+    color: rgb(94,107,123);
+    font-weight: bold;
+}
+.words16{
+    float: left;
+    color: rgb(185,212,244);
+    margin-top: -3px;
+    margin-left: 27px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.words17{
+    float: left;
+    display: inline-block;
+    margin-top: 542px;
+    margin-left: -240px;
+    color: rgb(153,153,153);
+}
+.link9{
+    float: left;
+    display: inline-block;
+    margin-top: 620px;
+    margin-left: -202px;
+}
+.picture5-9{
+    width: 158px;
+    height: 17px;
+}
+.last2{
+    height: 263px;
+}
+.words18{
+    text-align: center;
+    margin-top: 97px;
+}
+.box10{
+    border: 1px solid rgb(204,204,204);
+    display: inline;
+    float: left;
+    width: 680px;
+    height: 60px;
+    margin-top: 3px;
+    margin-left: 600px;
+    border-radius: 45px;
+}
+.words19{
+    display: inline-block;
+    margin: 16px 27px;
+    font-size: 1.25em;
+    color: rgb(117,117,117);
+}
+.box11{
+    border: 1px solid rgb(204,204,204);
+    display: inline-block;
+    float: right;
+    width: 165px;
+    height: 52px;
+    border-radius: 30px;
+    margin-right: 605px;
+    margin-top: -58px;
+    background-color: rgb(79,192,141);
+}
+.words20{
+    display: inline-block;
+    color: rgb(255,255,255);
+    margin-top: 10px;
+    margin-left: 55px;
+}
+.words21{
+    margin-top: 100px;
+    font-size: 1.2em;
+    text-align: center;
+    font-weight: 400;
+}
+.words21-1{
+    color: rgb(66,185,131);
+    text-decoration: none;
+}
+.last1{
+    height: 234px;
+    background-color: rgb(71,80,80);
+}
+.box12{
+    color: rgb(255,255,255);
+    text-align: center;
+    padding-top: 118px;
+    font-size: 1.1em;
+}
+.words22{
+    text-decoration: none;
+    color: rgb(255,255,255);
+    font-size: 1.15em;
+    font-weight: 700;
+}
+body{
+    margin: 0;
+}
